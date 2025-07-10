@@ -11,13 +11,6 @@ This is a simple **Movie Recommender System** built using **Python**, **Tkinter*
 - Clean, beginner-friendly GUI built with Tkinter
 - Contains 90 sample movies including Bollywood, Hollywood, and post-2015 titles
 
----
-
-## 🖼️ Screenshot
-
-![App Screenshot](sample.png)
-
-> *(Make sure your image file is named `sample.png` and placed in the root of the project folder)*
 
 ---
 
